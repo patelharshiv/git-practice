@@ -4,7 +4,11 @@
 	<title>Harshiv</title>
 </head>
 <body>
+<<<<<<< HEAD
 	This is commit by meet
 	changes made by master
+=======
+	name meet 
+>>>>>>> 1c106e5d196f9b94beb5d1677369f24f3fef4480
 </body>
 </html>
